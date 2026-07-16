@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "2026-07-14 18:23:49",
+    "activity_type": "Scraped Article URL",
+    "details": "Successfully scraped URL: https://www.indiatvnews.com/news/india/sudip-bandopadhyay-kakoli-ghosh-meet-om-birla-on-seating-arrangements-in-lok-sabha-sources-2026-07-14-1048201"
+  },
+  {
+    "timestamp": "2026-07-14 18:23:49",
+    "activity_type": "Ran NLP Tokenizer & Stats",
+    "details": "Analyzed character count, word counts, NLTK sentence boundary splits, and word densities (682 tokens)"
+  },
+  {
+    "timestamp": "2026-07-14 18:24:22",
+    "activity_type": "Executed Complete AI Pipeline",
+    "details": "Triggered automated execution of NLTK preprocessing, summaries, hybrid sentiments, entities, and citations extraction"
+  },
+  {
+    "timestamp": "2026-07-14 18:24:57",
+    "activity_type": "Analyzed Journalistic Bias",
+    "details": "Evaluated sensationalism, loaded language, and structural narrative framing for 'https://www.indiatvnews.com/ne'"
+  },
+  {
+    "timestamp": "2026-07-14 18:26:08",
+    "activity_type": "Translated Content",
+    "details": "Translated Complete Scraped Article into Hindi 🇮🇳"
+  },
+  {
+    "timestamp": "2026-07-14 19:13:27",
+    "activity_type": "Scraped Article URL",
+    "details": "Successfully scraped URL: https://www.thehindu.com/opinion/editorial/insular-incentive-on-ethanol-blended-fuel-and-the-indian-consumer/article71214023.ece"
+  },
+  {
+    "timestamp": "2026-07-14 19:13:28",
+    "activity_type": "Ran NLP Tokenizer & Stats",
+    "details": "Analyzed character count, word counts, NLTK sentence boundary splits, and word densities (651 tokens)"
+  },
+  {
+    "timestamp": "2026-07-14 19:14:08",
+    "activity_type": "Scraped Comparison Article",
+    "details": "Crawled comparison article URL: https://www.moneycontrol.com/news/india/ethanol-can-even-be-made-from-rotting-fruits-vegetables-nitin-gadkari-amid-e20-fuel-policy-backlash-13973623.html"
+  },
+  {
+    "timestamp": "2026-07-14 19:15:20",
+    "activity_type": "Executed Dual Article Comparison",
+    "details": "Compared framing, bias, and coverage divergence side-by-side."
+  },
+  {
+    "timestamp": "2026-07-14 19:15:44",
+    "activity_type": "Translated Content",
+    "details": "Translated Executive Summary only into Spanish 🇪🇸"
+  },
+  {
+    "timestamp": "2026-07-14 19:16:01",
+    "activity_type": "Executed Cross-Cultural Frame Neutralizer",
+    "details": "Simulated multi-regional frames and compiled a neutralized media coverage synthesis."
+  }
+]
